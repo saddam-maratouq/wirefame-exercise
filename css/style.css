@@ -1,17 +1,107 @@
+
+header{
+    border: 10px red;
+    padding: 30px;
+    background-color: white
+     
+}
+header nav {
+
+background-color:gray;
+height: 47px;
+padding: 20px;
+margin-top: 30px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+#fpic{
+    position: relative;
+    top: 110px;
+    left: 324px;
+}
+nav ul li {
+position: relative;
+left: 456px;
+display: inline-block;
+margin-left: 80px;
+font-size: 30px;
+}
+
+#tpic{
+    position: relative;
+    left: 970px;
+}
+
+#fopic{
+    position: absolute;
+    left: 638px;
+}
+#fipic{
+    position: relative;
+    left: 2px;
+}
+
+#lorem{
+    float: right;
+    width: 50%;
+    background-color: lightblue;
+    width: 699px;
+    height: 630px;
+    overflow: scroll;
+    position: relative;
+    right: 32px;
+    top: 6px;
+}
+
+hr{
+    width: 70%;
+    background-color: gray;
+    font-size: 70px;
+    height: 90px;
+}
+
+#bu{
+
+    position: relative;
+    top: -6px;
+    left: 12px;
+    color: white;
+    font-size: 35px;
+    background-color: black;
+   
+}
+#sipic{
+    float: left;
+    width: 50%;
+}
+
+
+#spic{
+    position: relative;
+    left: 308px;
+}
+
+
+
+
+body{
+    background-color: blanchedalmond;
+}
 h1{
 
     text-align: center;
-background-color: 
+
 }
 
 div{
     position: relative;
     left: 20px;
-    background-color: gray;
+    
 }
 
-footer{
 
-    background-color: peru;
-}
 
